@@ -7,6 +7,7 @@ public class clase2 {
 
 		
 		System.out.println("hi");
+		System.out.println("holi caracoli");
 	}
 
 }
